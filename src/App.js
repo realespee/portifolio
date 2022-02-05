@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="#"
+          href="https://portifolio.simonwanyama.com"
           target="_blank"
           rel="noopener noreferrer"
         >
